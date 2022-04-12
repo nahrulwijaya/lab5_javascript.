@@ -1,4 +1,4 @@
-## lab5web (b)
+## lab5web 
 
  # Nama : Nahrul Wijaya 
  # Nim  : 312010415     
@@ -12,3 +12,9 @@ seperti berikut.
 
 ![p](gambar/1.PNG)
 ![p](gambar/2.PNG)
+
+## 1.Javascript Dasar
+
+pemakaian Alert sebagai property window
+![p](gambar/3.PNG)
+
