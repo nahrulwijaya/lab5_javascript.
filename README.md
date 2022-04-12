@@ -18,3 +18,9 @@ seperti berikut.
 pemakaian Alert sebagai property window
 ![p](gambar/3.PNG)
 
+pemakaian method dalam objek
+![p](gambar/4.PNG)
+
+pemakaian prompt
+![p](gambar/5.PNG)
+![p](gambar/6.PNG)
